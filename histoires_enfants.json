@@ -1,0 +1,26 @@
+[
+  {
+    "titre": "La Forêt Enchantée",
+    "intro": "Tu découvres un arbre qui parle. Il t’offre une clé dorée. Que fais-tu ?",
+    "choix": [
+      "Prendre la clé",
+      "Refuser poliment"
+    ],
+    "resultats": [
+      "Tu ouvres un coffre magique rempli de lumière.",
+      "L’arbre te remercie et t’offre une graine qui exauce un vœu."
+    ]
+  },
+  {
+    "titre": "Le Dragon de Glace",
+    "intro": "Un dragon gelé te regarde avec curiosité. Il semble triste.",
+    "choix": [
+      "Lui parler doucement",
+      "T’enfuir en courant"
+    ],
+    "resultats": [
+      "Il te donne une plume de glace magique.",
+      "Il s’envole tristement, laissant derrière lui une trace de givre."
+    ]
+  }
+]
